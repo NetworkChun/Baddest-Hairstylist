@@ -10,11 +10,11 @@
 
     // Services
     let services = [
-      { title: "Spiral Braids", description: "A unique and effortless style that make maintaining curls simple and chic.", image:"Snapchat-1812647462.jpg", whatsapp:"Hi! I want to book a Haircut & Styling." },
-      { title: "Knotless Braids", description: "A popular protective hairstyle for natural and permed hair..", image:"p1.jpg", whatsapp:"Hi! I want to book Braids & Extensions." },
-      { title: "Mowhak Braids", description: "A versatile style for any type of occasion.", image:"p2a.jpg", whatsapp:"Hi! I want to book Hair Coloring." },
-      { title: "Afro Boho Braids", description: "Elegant style for my girlies", image:"p3a.jpg", whatsapp:"Hi! I want to book Special Occasion Styling." },
-       { title: "locs", description: "Suitable for hair growth.", image:"p4.jpg", whatsapp:"Hi! I want to book Scalp Treatments." }
+      { title: "Spiral Braids", description: "A unique and effortless style that make maintaining curls simple and chic.", image:"Snapchat-1812647462.jpg", whatsapp:"Hi! I want to book Spiral Braids" },
+      { title: "Knotless Braids", description: "A popular protective hairstyle for natural and permed hair..", image:"p1.jpg", whatsapp:"Hi! I want to book Knotless Braids." },
+      { title: "Mowhak Braids", description: "A versatile style for any type of occasion.", image:"p2a.jpg", whatsapp:"Hi! I want to book Mowhak Braids." },
+      { title: "Afro Boho Braids", description: "Elegant style for my girlies", image:"p3a.jpg", whatsapp:"Hi! I want to book Afo Boho Braids." },
+       { title: "locs", description: "Suitable for hair growth.", image:"p4.jpg", whatsapp:"Hi! I want to book Locs." }
      
      
     ];
